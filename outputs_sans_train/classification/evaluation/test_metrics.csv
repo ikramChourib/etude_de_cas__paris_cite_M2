@@ -1,0 +1,3 @@
+model,best_epoch,test_loss,test_accuracy,recall_glioma,recall_meningioma,recall_pituitary,checkpoint
+resnet18_transfer,9,0.4237870997625093,0.8533333333333334,0.82,0.8,0.94,outputs/classification/train/resnet18_transfer.pth
+small_cnn_from_scratch,8,0.6749469725290934,0.72,0.64,0.84,0.68,outputs/classification/train/small_cnn_from_scratch.pth
